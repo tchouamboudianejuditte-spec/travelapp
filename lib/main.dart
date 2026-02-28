@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/home_screen.dart';
-import 'package:flutter/destination_card.dart';
-import 'package:flutter/detail_screen.dart';
+import 'package:travel_app/home_screen.dart';
+import 'package:travel_app/destination_card.dart';
+import 'package:travel_app/detail_screen.dart';
 
 void main() {
   runApp(const TravelApp());
